@@ -1,1 +1,1 @@
-# sch_3d_stl
+# SCH_STL_PCB
